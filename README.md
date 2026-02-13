@@ -1,0 +1,2 @@
+# Predicting-Risk-Behavior-in-Insurance-with-Predictive-Models
+This project develops a predictive modeling framework to classify high-risk insurance policyholders using the Prudential Life Insurance Assessment dataset. I compare traditional actuarial approaches (Logistic Regression) with modern machine learning models including Decision Trees, Random Forest, XGBoost, and a PyTorch-based Neural Network.
